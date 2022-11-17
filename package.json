@@ -6,7 +6,7 @@
   "name": "videojs-vtt.js",
   "description": "A JavaScript implementation of the WebVTT specification, forked from vtt.js for use with Video.js",
   "version": "0.15.2",
-  "main": "lib/browser-index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/videojs/vtt.js.git"
